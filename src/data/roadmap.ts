@@ -101,17 +101,17 @@ export const roadmap: Phase[] = [
 				'5–8 законченных иллюстраций: пропы, окружения, простые персонажи.'
 		},
 		steps: [
-			{ id: 'p1-s1', title: 'Ctrl+Paint — «Color & Light» серия (FREE)' },
+			{ id: 'p2-s1', title: 'Ctrl+Paint — «Color & Light» серия (FREE)' },
 			{
-				id: 'p1-s2',
+				id: 'p2-s2',
 				title: 'Schoolism — «Painting with Light & Color» Nathan Fowkes (PAID)'
 			},
 			{
-				id: 'p1-s3',
+				id: 'p2-s3',
 				title: 'Color and Light» — James Gurney (PAID)'
 			},
 			{
-				id: 'p1-s4',
+				id: 'p3-s4',
 				title: 'YouTube: Marc Brunet — уроки по рендеру в PS (FREE)'
 			}
 		]
@@ -222,15 +222,15 @@ export const roadmap: Phase[] = [
 		},
 		steps: [
 			{
-				id: 'p3-s1',
+				id: 'p4-s1',
 				title: 'Schoolism — «Visual Storytelling» Bobby Chiu (PAID)'
 			},
-			{ id: 'p3-s2', title: 'CGMA — «Character Design» Trent Kaniuga (PAID)' },
+			{ id: 'p4-s2', title: 'CGMA — «Character Design» Trent Kaniuga (PAID)' },
 			{
-				id: 'p3-s3',
+				id: 'p4-s3',
 				title: 'Proko.com — анатомия фигуры (FREE)'
 			},
-			{ id: 'p3-s4', title: '«The Skillful Huntsman» (PAID)' }
+			{ id: 'p4-s4', title: '«The Skillful Huntsman» (PAID)' }
 		]
 	},
 	{
@@ -277,20 +277,20 @@ export const roadmap: Phase[] = [
 		},
 		steps: [
 			{
-				id: 'p3-s1',
+				id: 'p5-s1',
 				title:
 					'YouTube: Ryan Kingslien — «Portfolio для концепт-художника» (FREE)'
 			},
 			{
-				id: 'p3-s2',
+				id: 'p5-s2',
 				title:
 					'Communities: ConceptArt.org, ArtStation forums, r/ImaginaryWorldbuilding (FREE)'
 			},
 			{
-				id: 'p3-s3',
+				id: 'p5-s3',
 				title: '«Concept Art Portfolio Bootcamp» — CGMA (PAID)'
 			},
-			{ id: 'p3-s4', title: 'Artstation Challenges / Community Jams (FREE)' }
+			{ id: 'p5-s4', title: 'Artstation Challenges / Community Jams (FREE)' }
 		]
 	}
 ]
