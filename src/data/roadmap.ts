@@ -111,7 +111,7 @@ export const roadmap: Phase[] = [
 				title: 'Color and Light» — James Gurney (PAID)'
 			},
 			{
-				id: 'p3-s4',
+				id: 'p2-s4',
 				title: 'YouTube: Marc Brunet — уроки по рендеру в PS (FREE)'
 			}
 		]
