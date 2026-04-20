@@ -49,9 +49,13 @@ export const roadmap: Phase[] = [
 				'30+ скетчей базовых объектов, комнат, простых персонажей в перспективе.'
 		},
 		steps: [
-			{ id: 'p1-s1', title: 'Линии, штриховка, базовые формы' },
-			{ id: 'p1-s2', title: 'Перспектива — 1-точечная и 2-точечная' },
-			{ id: 'p1-s3', title: 'Анатомия — голова, торс, руки' }
+			{ id: 'p1-s1', title: 'Drawabox.com — уроки 1–3 (FREE)' },
+			{ id: 'p1-s2', title: 'YouTube: Proko — How to draw (FREE)' },
+			{
+				id: 'p1-s3',
+				title: 'YouTube: Ctrl+Paint — Digital Painting 101 (FREE)'
+			},
+			{ id: 'p1-s4', title: 'Fun with a Pencil — Andrew Loomis (PAID)' }
 		]
 	},
 	{
@@ -97,9 +101,19 @@ export const roadmap: Phase[] = [
 				'5–8 законченных иллюстраций: пропы, окружения, простые персонажи.'
 		},
 		steps: [
-			{ id: 'p2-s1', title: 'Цветовая теория и палитра' },
-			{ id: 'p2-s2', title: 'Световые схемы и тени' },
-			{ id: 'p2-s3', title: 'Рендер материалов — металл, кожа, ткань' }
+			{ id: 'p1-s1', title: 'Ctrl+Paint — «Color & Light» серия (FREE)' },
+			{
+				id: 'p1-s2',
+				title: 'Schoolism — «Painting with Light & Color» Nathan Fowkes (PAID)'
+			},
+			{
+				id: 'p1-s3',
+				title: 'Color and Light» — James Gurney (PAID)'
+			},
+			{
+				id: 'p1-s4',
+				title: 'YouTube: Marc Brunet — уроки по рендеру в PS (FREE)'
+			}
 		]
 	},
 	{
@@ -150,9 +164,14 @@ export const roadmap: Phase[] = [
 				'2–3 полных концепт-листа и 4–5 environment thumbnails с раскраской.'
 		},
 		steps: [
-			{ id: 'p3-s1', title: 'Дизайн пропов и weapon sheets' },
-			{ id: 'p3-s2', title: 'Environment thumbnails и композиция' },
-			{ id: 'p3-s3', title: 'Финальный ортографический лист' }
+			{ id: 'p3-s1', title: 'CGMA — «Environment Design» (PAID)' },
+			{ id: 'p3-s2', title: 'YouTube: FZDSCHOOL (Feng Zhu) (FREE)' },
+			{
+				id: 'p3-s3',
+				title:
+					'Gumroad: «Environment Sketching» — Sparth / Nicolas Bouvier (PAID)'
+			},
+			{ id: 'p3-s4', title: 'ArtStation Learning — бесплатные уроки (FREE)' }
 		]
 	},
 	{
@@ -202,9 +221,16 @@ export const roadmap: Phase[] = [
 			description: '2–3 полных персонажных листа и 1–2 нарративных иллюстрации.'
 		},
 		steps: [
-			{ id: 'p4-s1', title: 'Character design — силуэт и читаемость' },
-			{ id: 'p4-s2', title: 'Turnaround sheet персонажа' },
-			{ id: 'p4-s3', title: 'Narrative illustration — 1 финальная работа' }
+			{
+				id: 'p3-s1',
+				title: 'Schoolism — «Visual Storytelling» Bobby Chiu (PAID)'
+			},
+			{ id: 'p3-s2', title: 'CGMA — «Character Design» Trent Kaniuga (PAID)' },
+			{
+				id: 'p3-s3',
+				title: 'Proko.com — анатомия фигуры (FREE)'
+			},
+			{ id: 'p3-s4', title: '«The Skillful Huntsman» (PAID)' }
 		]
 	},
 	{
@@ -250,9 +276,21 @@ export const roadmap: Phase[] = [
 				'10–12 работ высокого качества: окружения, персонажи, пропы, breakdown.'
 		},
 		steps: [
-			{ id: 'p5-s1', title: 'Отбор и доработка 8–10 работ' },
-			{ id: 'p5-s2', title: 'ArtStation — оформление и SEO' },
-			{ id: 'p5-s3', title: 'Первые заявки и фидбек' }
+			{
+				id: 'p3-s1',
+				title:
+					'YouTube: Ryan Kingslien — «Portfolio для концепт-художника» (FREE)'
+			},
+			{
+				id: 'p3-s2',
+				title:
+					'Communities: ConceptArt.org, ArtStation forums, r/ImaginaryWorldbuilding (FREE)'
+			},
+			{
+				id: 'p3-s3',
+				title: '«Concept Art Portfolio Bootcamp» — CGMA (PAID)'
+			},
+			{ id: 'p3-s4', title: 'Artstation Challenges / Community Jams (FREE)' }
 		]
 	}
 ]
