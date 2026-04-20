@@ -51,10 +51,6 @@ export function PhaseCard({
 }: PhaseCardProps) {
 	const progress = getPhaseProgress(phase.steps, completedSteps)
 
-	function isPhaseCompleted(steps: { id: string }[], completedSteps: string[]) {
-		return steps.every(step => completedSteps.includes(step.id))
-	}
-
 	return (
 		<article
 			style={{
